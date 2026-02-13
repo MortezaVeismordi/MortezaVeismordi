@@ -30,4 +30,4 @@ I am a results-driven **Full-Stack Developer** with a focus on building scalable
 
 ### 🤝 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/morteza-veismordi)
-📧 **Email:** [Your-Email@example.com]
+📧 **Email:** [mveismordi@gmail.com]
